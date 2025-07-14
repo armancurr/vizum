@@ -1,3 +1,4 @@
+```txt
 image-processing-tool/
 ├── prisma/
 │ ├── schema.prisma
@@ -220,3 +221,4 @@ image-processing-tool/
 ├── tsconfig.json
 ├── docker-compose.yml
 ├── Dockerfile
+```
